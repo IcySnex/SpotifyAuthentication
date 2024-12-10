@@ -1,0 +1,9 @@
+.vs/
+packages/
+
+*.suo
+*.user
+_ReSharper.*
+
+SpotifyAuthentication/bin/
+SpotifyAuthentication/obj/
